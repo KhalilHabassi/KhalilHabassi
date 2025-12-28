@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there! 👋 I’m Khalil, LLM Engineer .
+#  About Me:
+Khalil, LLM Engineer .
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khalil-habassi/) 
