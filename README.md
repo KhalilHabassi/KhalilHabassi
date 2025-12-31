@@ -13,3 +13,31 @@ Outside of work, I am a competitive chess player, a music enthusiast, and a Form
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
+# Industry Experience :  Internships
+## 💼 LLM Engineer Internship – FinTech  | Generative AI implementation
+
+Engineered an architecture for investment decision support systems:
+
+AI Agent & Workflow Orchestration
+Developed a financial agent using Gemini Pro and LangChain.
+
+Orchestrated real-time data retrieval from market and news APIs.
+Generated synthesized investment recommendations through agent-based reasoning workflows.
+
+## 🔬 Data Scientsit - Machine Learning Engineer | Time Series Forecasting
+
+Published as a Conference Paper: AM3P 2025 — Vienna, Austria
+Advances in the Prediction of Pavement and Material Performance
+
+Project Subject
+
+Developed and benchmarked supervised learning models for bitumen ageing prediction:
+Random Forests
+Gradient Boosting (XGBoost, LightGBM, CatBoost)
+Recurrent Neural Networks (RNNs)
+Time Series Forecasting
+Designed data preprocessing and feature engineering pipelines.
+Approximated long-term pavement performance using temporal modeling techniques.
+
+
+
