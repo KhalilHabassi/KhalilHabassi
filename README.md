@@ -1,8 +1,8 @@
 #  About Me:
 
-I am Khalil , LLM Engineer & Senior Data Scientist with a strong foundation in mathematics. Specialized in building production-ready AI systems using NLP, intelligent agents, and machine learning.
+I am Khalil , LLM Engineer & Junior Data Scientist with a strong foundation in mathematics. Specialized in building production-ready AI systems using NLP, intelligent Agents, and Machine learning.
 
-Experienced in fine-tuning transformer models, designing Retrieval-Augmented Generation (RAG) pipelines, and deploying scalable AI solutions. I bridge research rigor and engineering execution across deep learning and symbolic reasoning.
+Experienced in fine-tuning transformer models, designing Retrieval-Augmented Generation (RAG) pipelines, and deploying scalable AI solutions on Cloud. I bridge research rigor and engineering execution across deep learning and symbolic reasoning.
 
 Outside of work, I am a competitive chess player, a music enthusiast, and a Formula 1 fan.
 
