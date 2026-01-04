@@ -24,7 +24,7 @@ Developed a financial agent using Gemini Pro and LangChain.
 Orchestrated real-time data retrieval from market and news APIs.
 Generated synthesized investment recommendations through agent-based reasoning workflows.
 
-## 🔬 Data Scientsit - Machine Learning Engineer | Time Series Forecasting
+## 🔬 Data Scientist - Machine Learning Engineer | Time Series Forecasting
 
 Published as a Conference Paper: AM3P 2025 — Vienna, Austria
 Advances in the Prediction of Pavement and Material Performance
